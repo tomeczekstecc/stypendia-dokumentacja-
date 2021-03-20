@@ -77,7 +77,7 @@ const ContentWrapper = styled.div`
 `;
 
 const ReadingTime = styled(({ className, time }) => (
-  <span className={className}>Reading time: {time} min</span>
+  <span className={className}>Czas na przeczytanie: {time} min</span>
 ))`
   font-style: italic;
   font-size: 12px;
@@ -86,7 +86,7 @@ const ReadingTime = styled(({ className, time }) => (
 const LastUpdated = styled(({ className, time, name }) => {
   return (
     <span className={className}>
-      Last update:{' '}
+      Ostatnia zmiana:{' '}
       <i>
         <b>{time}</b>
       </i>{' '}

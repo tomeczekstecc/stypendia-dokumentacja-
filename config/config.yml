@@ -33,7 +33,7 @@ sidebar:
   groups:
     - order: 1
       path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      title: ":rocket: Jak rozpocząć"
     - order: 2
       path: "/configuration"
       title: ":wrench: Configuration"
