@@ -5,17 +5,35 @@ order: 1
 
 # "Nihil novi ..."
 
-
 Stara śpiewka :sleeping: ... nic czego nie znasz :smile:...
-Żeby rozpocząć pracę w systemie, pod adresem [Aplikacji](https://www.slaskietalenty.com) wybieramy odpowiedni przycisk: mamy do wyboru 2 miejsca:
-wybierz ikonę ![](../images/styp/login_page_register.png)
+
+Żeby rozpocząć pracę w systemie, pod adresem [Aplikacji](https://www.slaskietalenty.com) wybieramy odpowiedni przycisk, który prezekieruje nas do  strony rejestracji. Mamy do wyboru 2 miejsca:
+wybierz jedną z ikon "Zarejestruj się":
+
+![](../images/styp/login_page_register.png)
 
 
-# Markdown
+---
 
-Markdown is a plain text formatting syntax aimed at making writing for the Internet easier.
-The philosophy behind Markdown is that plain text documents should be readable without
-tags mussing everything up, but there should still be ways to add text modifiers
-like lists, bold, italics, etc. It is an alternative to _WYSIWYG_ (what you see is what
-you get) editors, which use rich text that later gets converted to proper HTML.
+# Formularz rejestracyjny
+Zostaniesz przekierowana/y do strony rejestracji, gdzie należy zapoznanć się z treścią oświadczeń, zaznaczyć je i wypełnić wszystkie pola:
+
+![](../images/styp/register_page_register.png)
+
+
+---
+
+## Poprawność danych
+
+Wszystkie wprowadzone informacje po nacinięciu przycisku "Zarejestruj się" zzostaną zweryfikowane (inaczej "[zwalidowane]()") pod względem oczekiwanej wartości lub struktury. Dzięki temu mamy pewność, że dane zapisane w bazie będą dpowiednie.
+
+Lista walidacji "na wejściu" (walidacje odnoszące się do własnej zawartości):
+
+![](../images/styp/register_page_validate.png)
+
+
+
+Lista walidacji "na wyjściu" (walidacje związane z innymi danymi, tu - w bazie danych):
+
+![](../images/styp/register_page_validate2.png)
 

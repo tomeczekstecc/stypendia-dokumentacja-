@@ -35,8 +35,8 @@ sidebar:
       path: "/gettingstarted"
       title: ":rocket: Jak rozpocząć"
     - order: 2
-      path: "/configuration"
-      title: ":wrench: Configuration"
+      path: "/bezpieczenstwo"
+      title: ":children_crossing: Bezpieczeństwo"
     - order: 3
       path: "/editing"
       title: ":writing_hand: Editing Content"

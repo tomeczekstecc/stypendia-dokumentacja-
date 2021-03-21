@@ -302,7 +302,7 @@ or camel case <Icon name="PhoneCall" color="#34e187"/>syntax.
 
 ## Abbreviations
 
-Follow [this guide](/editing/rich_content/abbreviations) to learn about 
+Follow [this guide](/editing/rich_content/abbreviations) to learn about
 abbreviations (jargon).
 
 ## Emoticons
@@ -322,5 +322,5 @@ code highlighting and code snippets.
 
 ## Embeds
 
-Follow [this guide](/editing/rich_content/embed) to learn about 
-embedding external services into your page (like Youtube, Twitter, Instagram, Codepen etc..).
+Follow [this guide](/editing/rich_content/embed) to learn about
+embedding external services into your page (like Youtube, Twitter Codepen etc..).

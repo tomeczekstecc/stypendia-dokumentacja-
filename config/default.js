@@ -1,9 +1,9 @@
 module.exports = {
   metadata: {
-    name: 'BooGi',
-    short_name: 'BooGi',
+    name: 'Śląskie talenty',
+    short_name: 'ŚT',
     description: '',
-    language: 'en',
+    language: 'pl',
     url: 'http://localhost',
     pathPrefix: '/',
     gaTrackingId: null,
@@ -43,7 +43,6 @@ module.exports = {
     facebook: '',
     github: '',
     gitlab: '',
-    instagram: '',
     linkedin: '',
     mail: '',
     gmail: '',

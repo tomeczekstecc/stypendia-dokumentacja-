@@ -77,7 +77,7 @@ const TocTitle = styled(({ className }) => {
   return (
     <span className={className}>
       <AlignRight size={15} />
-      Contents
+      Zawartość
     </span>
   );
 })`

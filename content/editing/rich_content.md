@@ -21,7 +21,7 @@ Available components:
 - graphs and diagrams
 - code snippets / code highlighting
 - [feather icons](https://feathericons.com/)
-- embeds from popular services: Instagram, Giphy, Codepen,
+- embeds from popular services: Giphy, Codepen,
   Codesandbox, Pinterest, Spotify, Twitch, Twitter, Youtube
 
 Components which are planned:

@@ -13,7 +13,6 @@ configManager.generate(__dirname + '/.generated.config.js', config);
 const plugins = [
   'gatsby-plugin-loadable-components-ssr',
   'gatsby-plugin-sitemap',
-  'gatsby-plugin-instagram-embed',
   'gatsby-plugin-pinterest',
   'gatsby-plugin-twitter',
   'gatsby-plugin-sharp',
