@@ -30,8 +30,8 @@ module.exports = {
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'BooGi',
-      short_name: 'BooGi',
+      name: 'Śląskie talenty',
+      short_name: 'ŚT',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
