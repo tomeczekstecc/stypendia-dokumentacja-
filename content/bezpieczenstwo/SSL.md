@@ -5,9 +5,10 @@ order: 2
 
 ## Wykorzystujemy SSL
 
-Nasza aplikacja wykorzystuje protokół SSL na każdej stronie i podstronach. Dzięki temu dane przekazywane do serwerów oraz te, które z serwera lądują w Twojej aplikacji są szyfrowane i bezpeczne.
+Nasza aplikacja wykorzystuje protokół SSL na każdej stronie i podstronach. Dzięki temu dane przekazywane do serwerów oraz te, które z serwera lądują w Twojej aplikacji są szyfrowane i bezpieczne.
 
 Wystarczy spojrzeć na tą informację dostępną w pasku nawigacji każdej przeglądarki:
+
 
 ![](../images/styp/ssl_en.png)
 
