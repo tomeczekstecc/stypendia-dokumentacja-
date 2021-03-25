@@ -46,6 +46,9 @@ sidebar:
     - order: 5
       path: "/developing"
       title: ":computer: Developing"
+    - order: 6
+      path: "/adds"
+      title: ":gift: Dodatki"
   links:
     - text: BooGi
       link: https://github.com/filipowm/boogi
