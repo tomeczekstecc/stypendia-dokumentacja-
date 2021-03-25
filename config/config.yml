@@ -38,11 +38,11 @@ sidebar:
       path: "/bezpieczenstwo"
       title: ":children_crossing: Bezpieczeństwo"
     - order: 3
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
+      path: "/elementy"
+      title: ":computer: Elementy aplikacji"
     - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
+      path: "/wniosek"
+      title: ":writing_hand: Wniosek"
     - order: 5
       path: "/developing"
       title: ":computer: Developing"
