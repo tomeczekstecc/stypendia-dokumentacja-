@@ -8,6 +8,6 @@ Aplikację trzeba nieustannie testować:
 - po wprowadzeniu nowych funkcji,
 - po poprawie błędów.
 
-Niepoprawne wprowadzenie zmian w aplikacji może doprowadzić do znacznych szkód, dlatego muszą zostać wcześniej przetestowane w warunkach identycznych jakie panują w aplikacji produkcyjnej. Dlatego pod adresem [https://test.slaskietalenty.com/login](https://test.slaskietalenty.com/login) została przygotowana instancja testowa aplikacji:
+Niepoprawne wprowadzenie zmian w aplikacji może doprowadzić do znacznych szkód :boom:, dlatego muszą zostać wcześniej przetestowane w warunkach identycznych jakie panują w aplikacji produkcyjnej. Dlatego pod adresem [https://test.slaskietalenty.com/login](https://test.slaskietalenty.com/login) została przygotowana instancja testowa aplikacji:
 
 ![](../images/styp/test1.png)
