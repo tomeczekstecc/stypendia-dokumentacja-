@@ -44,7 +44,8 @@ const Input = styled.input`
   border-width: 0 !important;
   &,
   ::placeholder {
-    color: ${(props) => props.theme.colors.gray};
+    color: ${(props) =>
+      props.theme.colors.background === '#29282A' ? '#ebebeb !important' : '#3B4656 !important'};
   }
 `;
 
