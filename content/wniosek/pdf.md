@@ -5,11 +5,11 @@ order: 4
 
 # Plik pdf
 
-Ostatecznie produktem modułu skierowanego do Wnisokodawców jest wniosek w formacie pdf. Będzie to w zależności od przyjętego modelu jedyna bądź zasadnicza część wniosku przejkazywana przez ePUAP.
+Ostatecznie produktem modułu skierowanego do Wnioskodawców jest wniosek w formacie pdf. Będzie to w zależności od przyjętego modelu jedyna bądź zasadnicza część wniosku przekazywana przez ePUAP.
 
 Pdf tworzony jest w  momencie zapisu nowego wniosku lub zapisu w trakcie edycji wniosku istniejącego.
 
-Plik pdf można pobrać z karty wnisosku na stronie z listą wnuiosków (strona startowa):
+Plik pdf można pobrać z karty wniosku na stronie z listą wniosków (strona startowa):
 
 ![](../images/styp/card.png)
 

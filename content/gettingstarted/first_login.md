@@ -12,6 +12,6 @@ Wystarczy teraz podać ```Nazwa użytkownika``` i ```Hasło```
 ![](../images/styp/login_post.png)
 
 
-Jeżeli użyto prawidłowych danych logowania po naciścniueciu przycisku ```Zaloguj się !``` użytkownik zostanie przekierowany do strony głównej:
+Jeżeli użyto prawidłowych danych logowania po naciśnięciu przycisku ```Zaloguj się !``` użytkownik zostanie przekierowany do strony głównej:
 
 ![](../images/styp/home_page.png)

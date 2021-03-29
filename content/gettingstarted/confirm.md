@@ -21,11 +21,11 @@ Po naciśnieciu przycisku ```Potwierdzam email``` przekierujemy Cię, do strony 
 
 ## Ponowna wysyłka maila z linkiem do potwierdzenia konta
 
-Jeżeli użytkownik użyje link do potwierdzenia konta po 12 godzinach, link będzie uszkodzony lub będzie przedmiotem próby fałszerstwa, zostanie wyświetlona stona:
+Jeżeli użytkownik użyje link do potwierdzenia konta po 12 godzinach, link będzie uszkodzony lub będzie przedmiotem próby fałszerstwa, zostanie wyświetlona stona:t
 
 ![](../images/styp/confirm_fail.png)
 
 
-Link do wryfikacji można przesłać ponownie po użyciu przycisku ```Ponownie wyślij link```. Zostaniesz przekierowana/y na odpowiedni fromularz:
+Link do wryfikacji można przesłać ponownie po użyciu przycisku ```Ponownie wyślij link```. Zostaniesz przekierowana/y na odpowiedni formularz:
 
 ![](../images/styp/resend.png)

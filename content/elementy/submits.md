@@ -5,7 +5,7 @@ order: 3
 
 # Szybki podgląd
 
-Jeśli użytkownik złóżył już przynajmniej jeden wniosek na stronie starowej dostepny podgląd wniosku lub ich listę, w tym:
+Jeśli użytkownik złożył już przynajmniej jeden wniosek na stronie startowej dostępny podgląd wniosku lub ich listę, w tym:
 - imię i nazwisko uczennicy/ucznia,
 - rodzaj szkoły,
 - numer wniosku,

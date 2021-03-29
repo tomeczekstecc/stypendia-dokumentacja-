@@ -5,7 +5,7 @@ order: 1
 
 # Wniosek
 
-Wniosek o stypendium to najważniejszy element aplikacji. Na podstawie wprowadzonych danych w tej części wygenerujemy pdf, który przekazany zostanie przez ePUAP. Wnioskodawca wprowadza dane kolejnych zakładkac.
+Wniosek o stypendium to najważniejszy element aplikacji. Na podstawie wprowadzonych danych w tej części wygenerujemy pdf, który przekazany zostanie przez ePUAP. Wnioskodawca wprowadza dane w kolejnych zakładkach.
 
 ---
 
@@ -19,7 +19,7 @@ Pola `Imię wnioskodawcy`, `Nazwisko wnioskodawcy` oraz `Email wnioskodawcy` wyp
 
 ![](../images/styp/s1_1.png)
 
-Pola `Imię ucznia`, `Nazwisko ucznia` oraz `Email ucznia` wypełniane są automatycznie jeżel w polu `Status wnioskodawcy` użytkownik wybierze opcję `Pełnoletni uczeń`.
+Pola `Imię ucznia`, `Nazwisko ucznia` oraz `Email ucznia` wypełniane są automatycznie jeżeli w polu `Status wnioskodawcy` użytkownik wybierze opcję `Pełnoletni uczeń`.
 
 ### Walidacje
 
@@ -139,7 +139,7 @@ Sprawdzane są następujące właściwości:
 
 ![](../images/styp/s7_1.png)
 
-Aplikacja będzie także informować o rodzaju błędu przy poróbie dodania pliku, jeżeli błąd wystąpi:
+Aplikacja będzie także informować o rodzaju błędu przy próbie dodania pliku, jeżeli błąd wystąpi:
 
 
 - rodzaj pliku

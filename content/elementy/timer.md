@@ -5,9 +5,9 @@ order: 5
 
 # Bezpieczeństwo przede wszystkim
 
-Czas aktywnej sesji ze względów bezpiecześtwa ograniczono do 20 minut. Okeres ten jest autmatycznie przedłużany w momencie dokonania czynności na stronie
+Czas aktywnej sesji ze względów bezpieczeństwa ograniczono do 20 minut. Okres ten jest automatycznie przedłużany w momencie dokonania czynności na stronie
 
-Informacja o pozostającym czasie sesji jest cały czas dostępna w lewym dolnym rogu przegląldarki:
+Informacja o pozostającym czasie sesji jest cały czas dostępna w lewym dolnym rogu przeglądarki:
 
 ![](../images/styp/session.png)
 
@@ -16,11 +16,11 @@ Informacja o pozostającym czasie sesji jest cały czas dostępna w lewym dolnym
 ---
 # Alert o końcu sesji
 
-Jeżeli pozostały czas koońca sesji będzie krótszy niż 2 minuty pojawi się, stosowne powiadomienie i dodatkowy przycisk. Jego naciśniećie zresetuje czas sesji.
+Jeżeli pozostały czas koońca sesji będzie krótszy niż 2 minuty pojawi się, stosowne powiadomienie i dodatkowy przycisk. Jego naciśnięcie zresetuje czas sesji.
 
 ![](../images/styp/session_end.png)
 
 ---
 # Automatyczne wylogowanie
 
-Jeżeli sesja nie zostanie przedłużona użytkownik zostanie autmatycznie wylogowany.
+Jeżeli sesja nie zostanie przedłużona użytkownik zostanie automatycznie wylogowany.

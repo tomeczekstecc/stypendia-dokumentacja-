@@ -8,7 +8,7 @@ order: 2
 
 Główne menu ma za zadanie:
  - w łatwy sposób zapewniać nawigację pomiędzy modułami,
- - informować o aktualnym miejscu, w kórym znajduje się użytkownik
+ - informować o aktualnym miejscu, w którym znajduje się użytkownik
  - zawierać informacje o dostępnych opcjach
 
 

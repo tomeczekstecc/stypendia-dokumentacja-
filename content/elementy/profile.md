@@ -13,7 +13,7 @@ Strona zapwenia dostęp do danych jakie gromadzimy o właścicielu konta, a tak�
 
 # Zmiana hasła i dezaktywacja konta
 
-Na tej stronie użytkowanik ma także dostęp do 0dodtkowych fujnkcji:
+Na tej stronie użytkownik ma także dostęp do dodtkowych funkcji:
 - zmainy hasła na żądanie
 - dezaktywacji konta
 
