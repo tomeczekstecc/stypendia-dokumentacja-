@@ -25,7 +25,7 @@ Zostaniesz przekierowana/y do strony rejestracji, gdzie należy zapoznanć się 
 
 ## Poprawność danych
 
-Wszystkie wprowadzone informacje po nacinięciu przycisku "Zarejestruj się" zostaną zweryfikowane (inaczej "[zwalidowane]()") pod względem oczekiwanej wartości lub struktury. Dzięki temu mamy pewność, że dane zapisane w bazie będą odpowiednie.
+Wszystkie wprowadzone informacje po nacinięciu przycisku "Zarejestruj się" zostaną zweryfikowane (inaczej **"zwalidowane"**) pod względem oczekiwanej wartości lub struktury. Dzięki temu mamy pewność, że dane zapisane w bazie będą odpowiednie.
 
 Lista walidacji "na wejściu" (walidacje odnoszące się do własnej zawartości):
 
@@ -33,7 +33,7 @@ Lista walidacji "na wejściu" (walidacje odnoszące się do własnej zawartości
 
 
 
-Lista walidacji "na wyjściu" (walidacje związane z innymi danymi, tu - w bazie danych):
+Lista walidacji "na wyjściu" (walidacje związane z innymi danymi, w tym przypadku - w bazie danych):
 
 ![](../images/styp/register_page_validate2.png)
 

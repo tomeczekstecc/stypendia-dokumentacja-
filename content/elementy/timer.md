@@ -16,7 +16,7 @@ Informacja o pozostającym czasie sesji jest cały czas dostępna w lewym dolnym
 ---
 # Alert o końcu sesji
 
-Jeżeli pozostały czas koońca sesji będzie krótszy niż 2 minuty pojawi się, stosowne powiadomienie i dodatkowy przycisk. Jego naciśnięcie zresetuje czas sesji.
+Jeżeli pozostały czas końca sesji będzie krótszy niż 2 minuty pojawi się, stosowne powiadomienie i dodatkowy przycisk. Jego naciśnięcie zresetuje czas sesji.
 
 ![](../images/styp/session_end.png)
 
