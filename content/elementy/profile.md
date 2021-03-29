@@ -13,9 +13,9 @@ Strona zapwenia dostęp do danych jakie gromadzimy o właścicielu konta, a tak�
 
 # Zmiana hasła i dezaktywacja konta
 
-Na tej stronie użytkownik ma także dostęp do dodtkowych funkcji:
-- zmainy hasła na żądanie
+Na tej stronie użytkownik ma także dostęp do dodatkowych funkcji:
+- zmiany hasła na żądanie
 - dezaktywacji konta
 
-Konto nie jest całkokicie usuwane z bazy danych ze względu na zgromadzone dane w logach.
+Konto nie jest całkowicie usuwane z bazy danych ze względu na zgromadzone dane w logach.
 

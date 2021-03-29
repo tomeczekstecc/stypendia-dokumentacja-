@@ -5,7 +5,7 @@ order: 3
 
 # Logujemy się
 
-Strona logowania :metal: jest dostępna od razu po przejściu na adres [Aplikacji](https://slaskietalenty.com/)
+Strona logowania jest dostępna od razu po przejściu na adres [Aplikacji](https://slaskietalenty.com/)
 
 Wystarczy teraz podać ```Nazwa użytkownika``` i ```Hasło```
 
