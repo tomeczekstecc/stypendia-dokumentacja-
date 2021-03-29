@@ -55,6 +55,7 @@ sidebar:
       link: https://slaskietalenty.com
     - text: React
       link: https://reactjs.org
+
   ignoreIndex: false
   poweredBy:
     trademark: "/assets/gatsby.png"
@@ -68,16 +69,16 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/filipowm/boogi
-  linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
-  twitter: twitter url
+  facebook: https://www.facebook.com/slaskie
+  youtube: https://www.youtube.com/user/UMWSla
+  twitter: https://twitter.com/prasoweslaskie
 
 features:
   darkMode:
     enabled: true
     default: false
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/filipowm/boogi
     type: github
     editable: true
   mermaid:
@@ -117,7 +118,7 @@ features:
   search:
     enabled: true
     engine: 'algolia'
-    placeholder: 'Search'
+    placeholder: 'Przeszukaj'
     startComponent: 'input' # icon
     excerptSize: 8000
     debounceTime: 380

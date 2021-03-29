@@ -60,8 +60,8 @@ module.exports = {
     search: {
       enabled: true,
       indexName: 'docs',
-      algoliaAppId: null,
-      algoliaSearchKey: null,
+      algoliaAppId: '7OAJZ1JJCW',
+      algoliaSearchKey: '210e192d000ff63434874da56c105d4f',
       algoliaAdminKey: null,
       excerptSize: 20000,
       engine: 'localsearch',
@@ -72,11 +72,11 @@ module.exports = {
       hitsPerPage: 10,
       showStats: true,
       localSearchEngine: {
-        encode: "advanced",
-        tokenize: "full",
+        encode: 'advanced',
+        tokenize: 'full',
         threshold: 2,
         resolution: 30,
-        depth: 20
+        depth: 20,
       },
       pagination: {
         enabled: true,
@@ -133,7 +133,7 @@ module.exports = {
       enabled: false,
       hideHeader: true,
       hideToc: true,
-      hideSidebar: true
-    }
+      hideSidebar: true,
+    },
   },
 };

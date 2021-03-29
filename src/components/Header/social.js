@@ -9,7 +9,7 @@ const SocialButtonsBuilder = (baseProps) => {
       if (btn) {
         const link = optConfig && optConfig.linkFn ? optConfig.linkFn(config) : config;
         const title =
-          optConfig && optConfig.titleFn ? optConfig.titleFn(name) : `Follow on ${name}`;
+          optConfig && optConfig.titleFn ? optConfig.titleFn(name) : `Śledź na  ${name}`;
         const additionalProps =
           optConfig && optConfig.additionalProps ? optConfig.additionalProps : {};
         buttons.push(
