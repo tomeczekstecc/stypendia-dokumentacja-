@@ -14,8 +14,8 @@ const StatsWrapper = styled.p`
 
 const Stats = ({ hits, processingTimeMS }) => (
   <StatsWrapper css={paddingLeftRight}>
-    Found
-    <Token> {hits}</Token> results in
+    Znaleziono
+    <Token> {hits}</Token> rezultatów/rezultat w
     <Token> {processingTimeMS}</Token> ms
   </StatsWrapper>
 );
