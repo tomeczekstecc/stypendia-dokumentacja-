@@ -27,7 +27,7 @@ const SidebarMain = styled.div`
   display: block;
   padding: 0;
   padding-top: 32px;
-  overflow: hidden;
+  /* overflow: hidden; */
   -webkit-overflow-scrolling: hidden;
   &:hover,
   &:focus {
