@@ -62,7 +62,7 @@ module.exports = {
       indexName: 'docs',
       algoliaAppId: '7OAJZ1JJCW',
       algoliaSearchKey: '210e192d000ff63434874da56c105d4f',
-      algoliaAdminKey: null,
+      algoliaAdminKey: '7099b3382872769c2e094a84adfa94eb',
       excerptSize: 20000,
       engine: 'localsearch',
       placeholder: 'Search',
