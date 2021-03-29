@@ -5,7 +5,6 @@ import { useTheme } from 'emotion-theming';
 import { Search, Trash } from 'react-feather';
 import useDebounce from '../../utils/useDebounce';
 import config from 'config';
-import { marginLeftRight } from './styles';
 import { onMobile } from '../../styles/responsive';
 
 const SearchIcon = styled(Search)`
@@ -38,6 +37,8 @@ const Input = styled.input`
   transition: ${(props) => props.theme.transitions.hover};
   border-radius: 1px;
   padding-left: 10px;
+  color: ${(props) =>
+    props.theme.colors.background === '#29282A' ? '#ebebeb !important' : '#3B4656 !important'};
   background-color: transparent;
   width: calc(100% - 26px);
   border-width: 0 !important;
@@ -60,24 +61,34 @@ const Form = styled.form`
   }
   padding: 12px 4px;
   border-radius: 4px;
-  background-color: rgba(223,225,235, .4);
-  border: 1px solid rgba(223,225,235, 1)
-  &, *, input::placeholder, svg {
+  background-color: rgba(223, 225, 235, 0.4);
+  border: 1px solid rgba(223, 225, 235, 1);
+  &,
+  *,
+  input::placeholder,
+  svg {
     transition: ${(props) => props.theme.transitions.hover};
   }
-  &:focus, &:visited, &:hover, &:focus-within  {
+  &:focus,
+  &:visited,
+  &:hover,
+  &:focus-within {
     outline: none;
     background-color: transparent;
-    input, input::placeholder{
-      color: ${(props) => props.theme.colors.grayDark};
+    input,
+    input::placeholder {
+      color: ${(props) =>
+        props.theme.colors.background === '#29282A' ? '#ebebeb !important' : '#3B4656 !important'};
     }
     svg {
-      stroke: ${(props) => props.theme.colors.grayDark};
+      stroke:  ${(props) =>
+        props.theme.colors.background === '#29282A' ? '#ebebeb !important' : '#3B4656 !important'};;
     }
   }
-  
+
   svg {
-    stroke: ${(props) => props.theme.colors.grayLight};
+    stroke: ${(props) =>
+      props.theme.colors.background === '#29282A' ? '#ebebeb !important' : '#3B4656 !important'};
   }
 `;
 
@@ -97,6 +108,7 @@ const SidebarSearchInput = ({ search, inputRef, showClean, ...props }) => (
 
 const SearchInput = ({ search, inputRef, showClean, style, ...props }) => {
   const theme = useTheme();
+
   const preventSubmit = (e) => {
     e.preventDefault();
   };
@@ -104,10 +116,11 @@ const SearchInput = ({ search, inputRef, showClean, style, ...props }) => {
   const debouncedSearchTerm = useDebounce(searchTerm, config.features.search.debounceTime);
 
   useEffect(() => {
+    console.log(theme)
     if (search && debouncedSearchTerm !== null) {
       search(debouncedSearchTerm);
     }
-  }, [debouncedSearchTerm]);
+  }, [debouncedSearchTerm, theme]);
 
   const clean = (e) => {
     e.preventDefault();
