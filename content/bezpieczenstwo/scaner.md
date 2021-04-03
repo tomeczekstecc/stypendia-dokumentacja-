@@ -1,5 +1,5 @@
 ---
-title: "Skaner antywirsowy"
+title: "Skaner antywirsowy [w budowie]"
 order: 8
 ---
 
